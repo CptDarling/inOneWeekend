@@ -3,6 +3,11 @@
         "*.vrchap": "json",
         "*.py": "python",
         "limits": "cpp",
-        "cstdlib": "cpp"
+        "cstdlib": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "numeric": "cpp"
     }
 }
