@@ -1,2 +1,6 @@
 *.ppm
 main
+.vscode/targets.log
+.vscode/configurationCache.log
+.vscode/dryrun.log
+run.sh

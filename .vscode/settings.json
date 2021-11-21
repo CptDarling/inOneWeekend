@@ -9,5 +9,13 @@
         "algorithm": "cpp",
         "random": "cpp",
         "numeric": "cpp"
-    }
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/richard/cpp/inOneWeekend/bin",
+            "binaryPath": "/home/richard/cpp/inOneWeekend/bin/main",
+            "binaryArgs": []
+        }
+    ]
 }
