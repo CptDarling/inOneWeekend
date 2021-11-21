@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.vrchap": "json",
+        "*.py": "python",
+        "limits": "cpp"
+    }
+}
