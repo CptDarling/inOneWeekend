@@ -2,6 +2,7 @@
     "files.associations": {
         "*.vrchap": "json",
         "*.py": "python",
-        "limits": "cpp"
+        "limits": "cpp",
+        "cstdlib": "cpp"
     }
 }
