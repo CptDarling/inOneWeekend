@@ -20,9 +20,9 @@ clean:
 	${remove} -rf ${BINDIR}
 
 ${RUNSH}:
-	echo "cd ${BINDIR} && time ./main > image.ppm" > $@
+	echo "cd ${BINDIR} && ./main > image.ppm" > $@
 	chmod +x $@
 
 .PHONY: run
-run: | ${RUNSH}
+run: | all
 	${RUNSH}
